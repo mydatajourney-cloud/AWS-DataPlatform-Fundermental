@@ -14,7 +14,7 @@ Repositories này bao gồm các kiến thức nền tảng để xây dựng Da
 6. Security and governance: Protect your data accross the layers and data access management.
 
 ## Data ingestion layers services: 
-+ Ingest from databases:
++ Ingest from databases: dms
 ![image (1)](https://github.com/user-attachments/assets/b294817e-d026-4c28-9000-62a569411b2a)
 
 + Ingest fromn fileshares:
