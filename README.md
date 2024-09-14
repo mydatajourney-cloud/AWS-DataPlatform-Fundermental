@@ -43,7 +43,7 @@ AWS hỗ trợ một nơi lưu trữ tập trung các meta data được gọi l
 
 ## Data processing layer services:
 + Data processing services: Glue và EMR 
-![Uploading image (11).png…]()
+![image (11)](https://github.com/user-attachments/assets/519ee924-5bcd-4601-b427-62179005775b)
 Ta có thể sử dụng Amazon Glue để xử lý dữ liệu, ngoài ra Amazon còn hỗ trợ xử lý dữ liệu lớn thông qua service Amazon EMR với những nền tảng xử lý dữ liệu phổ biến như Spark, Hadoop.
 
 ## Data consumption layers service: 
