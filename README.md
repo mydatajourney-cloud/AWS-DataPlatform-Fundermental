@@ -28,3 +28,27 @@ Repositories này bao gồm các kiến thức nền tảng để xây dựng Da
 
 + Ingest from streaming-source:
 ![image](https://github.com/user-attachments/assets/dc13e0a3-dc08-4c0e-b653-8524a40c101d)
+
+## Data storage layer services: 
++ Stores: s3 và redshift: 
+![image (5)](https://github.com/user-attachments/assets/5b990499-f42a-4399-adab-712da663acc9)
+
++ Redshift capabilities:
+![image (9)](https://github.com/user-attachments/assets/07eaaf31-3586-43cf-a3f7-c92013751786)
+
+## Data catalog layer services: 
++ Catalogs: 
+![image (9)](https://github.com/user-attachments/assets/5d06be75-d4cb-4189-8d96-5cf3aa02d5b2)
+AWS hỗ trợ một nơi lưu trữ tập trung các meta data được gọi là Glue Data Catalog. Glue data catalog sẽ quét tự động dataset và lưu trữ schema từ những dataset đó. 
+
+## Data processing layer services:
++ Data processing services: Glue và EMR 
+![Uploading image (11).png…]()
+Ta có thể sử dụng Amazon Glue để xử lý dữ liệu, ngoài ra Amazon còn hỗ trợ xử lý dữ liệu lớn thông qua service Amazon EMR với những nền tảng xử lý dữ liệu phổ biến như Spark, Hadoop.
+
+## Data consumption layers service: 
++ Data Analytics services:
+![image (12)](https://github.com/user-attachments/assets/2749d51e-2960-45b6-9877-a1d2905434ee)
++ Machine learning services:
+![image (13)](https://github.com/user-attachments/assets/029fe0b1-2132-4bab-abcd-d65bc1a0ef68)
+
